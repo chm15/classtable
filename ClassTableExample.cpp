@@ -1,6 +1,6 @@
 //============= Copyright Connor McLaughlan, All rights reserved. =============
 //
-//  Purpose: Demomstrates how a ClassTable might be populated.
+//  Purpose: Demonstrates how a ClassTable might be populated.
 //
 //=============================================================================
 
