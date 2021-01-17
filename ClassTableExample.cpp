@@ -71,8 +71,8 @@ class CustomSystem2;
 DECLARE_SYSTEM(CustomSystem2);
 
 
-//GameSystemRegistration g_Sys1("Sys1", g_SystemManager);
-//GameSystemRegistration g_Sys2("Sys2", g_SystemManager);
+
+
 
 int main() {
     std::vector<std::string> classNames = g_SystemManager.getSystems();
